@@ -1,0 +1,65 @@
+
+PYTHON WEEK 8 ASSIGNMENT
+Project Title: Python Toolkit
+
+1. TOOLS I HAVE CHOSEN
+
+Tool 1: Simple Calculator
+This tool asks the user for two numbers and an operation, then calculates and displays the answer.
+
+Tool 2: To-Do List Manager
+This tool allows the user to add tasks, view tasks, and remove tasks from a list.
+
+Tool 3: Number Guessing Game
+This tool asks the user to guess a secret number and gives feedback until the correct number is guessed.
+
+2. EXACT MENU TEXT
+
+Welcome to My Python Toolkit!
+
+Choose a tool:
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+
+Enter your choice (1-4):
+
+Invalid choice message:
+Sorry, that is not a valid choice. Please select 1, 2, 3, or 4.
+
+Goodbye message:
+Thank you for using My Python Toolkit. See you next time!
+
+3. PYTHON CONCEPTS USED
+
+Tool 1: Simple Calculator
+- Variables
+- User input
+- Conditionals (if, elif, else)
+- Arithmetic operators
+- F-strings
+
+Tool 2: To-Do List Manager
+- Lists
+- append() to add tasks
+- remove() to remove tasks
+- The in operator to check whether a task exists
+- Loops
+- Conditionals
+- F-strings
+
+Tool 3: Number Guessing Game
+- Variables
+- A loop
+- Conditionals
+- User input
+- Integer conversion
+- F-strings
+
+Main Menu:
+- while loop
+- if, elif, and else
+- User input
+- Invalid choice handling
+- break to quit
